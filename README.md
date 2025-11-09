@@ -5,7 +5,7 @@ A darker, more muted variant of the Kanagawa theme for [Omarchy](https://github.
 ## Installation
 
 ```bash
-omarchy-theme-install https://github.com/yourusername/omarchy-kanagawa-dragon-theme.git
+omarchy-theme-install https://github.com/MrTrigger/omarchy-kanagawa-dragon-theme.git
 ```
 
 ## Colors
